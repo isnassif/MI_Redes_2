@@ -130,7 +130,7 @@ Também foram implementados cenários envolvendo falha de brokers, drones offlin
 <h2>Docker</h2>
 
 <p>
-O projeto pode ser executado facilmente utilizando Docker. O container é baseado na imagem oficial do Python 3.11 Slim e executa diretamente o processo do drone.
+O projeto pode ser executado facilmente utilizando Docker. O container é baseado na imagem oficial do Python 3.11 Slim e executa diretamente os processos. Abaixo segue um exemplo com drone:
 </p>
 
 <pre>
