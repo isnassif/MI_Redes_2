@@ -196,9 +196,3 @@ Além do caráter acadêmico, o sistema também serve como laboratório prático
 </p>
 
 <hr>
-
-<h2>Autor</h2>
-
-<p>
-Projeto desenvolvido para fins acadêmicos e experimentais na área de Sistemas Distribuídos.
-</p>
